@@ -85,6 +85,10 @@ paddleocr
 
 ## Chạy ứng dụng
 ```bash
+python train.py
+```
+- Chạy train để khởi tạo dữ liệu cho hệ thống đào tạo nhận dạng trước khi chạy
+```
 streamlit run app.py
 ```
 
